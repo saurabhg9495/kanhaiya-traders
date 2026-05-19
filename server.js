@@ -29,6 +29,7 @@ let users = [
   { id:11, name:"Gupta Hardware", code:"RT002",       pin:"2222",  role:"retailer", partyName:"Gupta Hardware"  },
   { id:12, name:"Verma Cement",   code:"RT003",       pin:"3333",  role:"retailer", partyName:"Verma Cement"    },
   { id:13, name:"Singh Suppliers",code:"RT004",       pin:"4444",  role:"retailer", partyName:"Singh Suppliers" },
+  { id:20, name:"KANAK BIHARI ENTERPRISES", code:"KBE", pin:"1122",    role:"retailer", partyName:"KANAK BIHARI ENTERPRISES" },
 ];
 
 // ── MIDDLEWARE ────────────────────────────────────────────────────────────────
